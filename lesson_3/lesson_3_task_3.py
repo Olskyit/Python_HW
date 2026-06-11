@@ -2,7 +2,7 @@ from address import Address
 from mailing import Mailing
 
 to_address = Address(
-    "190000",
+    "191181",
     "Санкт-Петербург",
     "Невский проспект",
     "10",
@@ -13,7 +13,7 @@ from_address = Address(
     "101000",
     "Москва",
     "Тверская",
-    "20",
+    "25",
     "8"
 )
 
