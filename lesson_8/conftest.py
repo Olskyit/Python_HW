@@ -18,5 +18,4 @@ def new_project():
 
     yield project_id
 
-
     ProjectApi.delete_project(project_id)

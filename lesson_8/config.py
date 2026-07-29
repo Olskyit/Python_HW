@@ -13,6 +13,5 @@ BASE_URL = os.getenv("BASE_URL")
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
     "Content-Type": "application/json",
+    "Accept": "application/json"
 }
-
-
